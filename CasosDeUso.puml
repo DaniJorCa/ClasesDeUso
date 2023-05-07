@@ -6,6 +6,15 @@
 
 u1 <|-- u2
 
+u1 --> (Iniciar sesion)
+u1 --> (Recuperar contraseña)
+u1 --> (Modificar contraseña)
+u1 --> (Cerrar sesión)
+
+u2 --> (Registrar usuario)
+u2 --> (Instalar programa)
+
+
 
 
 
