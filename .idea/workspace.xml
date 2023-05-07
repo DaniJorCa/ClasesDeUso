@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="589368db-4209-4dbf-bff1-dde93c475155" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+    <list default="true" id="589368db-4209-4dbf-bff1-dde93c475155" name="Changes" comment="Inicio Clases de Uso">
+      <change beforePath="$PROJECT_DIR$/CasosDeUso.puml" beforeDir="false" afterPath="$PROJECT_DIR$/CasosDeUso.puml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,8 +63,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683476531985</updated>
-      <workItem from="1683476533205" duration="1215000" />
+      <workItem from="1683476533205" duration="1519000" />
     </task>
+    <task id="LOCAL-00001" summary="Inicio Clases de Uso">
+      <created>1683477788600</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683477788600</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,5 +88,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inicio Clases de Uso" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inicio Clases de Uso" />
   </component>
 </project>
