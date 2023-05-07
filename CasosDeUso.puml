@@ -1,20 +1,18 @@
 @startuml
 
-:Usuario: as u1
+:Ciudadano: as c1
+:Ciudadano extranjero: as c2
 
-:Administrador: as u2
+c1 <|-- c2
 
-u1 <|-- u2
+(Registrar entrada) as r1
+(Tomar huellas) as t1
 
-u1 --> (Iniciar sesion)
-u1 --> (Recuperar contraseña)
-u1 --> (Modificar contraseña)
-u1 --> (Cerrar sesión)
+c1 --> r1
 
-u2 --> (Registrar usuario)
-u2 --> (Instalar programa)
+c2 --> t1
 
-
+t1 ..> r1 : extend
 
 
 
