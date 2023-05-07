@@ -1,18 +1,10 @@
 @startuml
 
-:Ciudadano: as c1
-:Ciudadano extranjero: as c2
 
-c1 <|-- c2
+usecase globo as "Sacar dinero
+--
++ solicitud hecha"
 
-(Registrar entrada) as r1
-(Tomar huellas) as t1
-
-c1 --> r1
-
-c2 --> t1
-
-t1 ..> r1 : extend
 
 
 

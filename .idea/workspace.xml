@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="589368db-4209-4dbf-bff1-dde93c475155" name="Changes" comment="Actor e interaccion">
-      <change beforePath="$PROJECT_DIR$/CasosDeUso.puml" beforeDir="false" afterPath="$PROJECT_DIR$/CasosDeUso.puml" afterDir="false" />
-    </list>
+    <list default="true" id="589368db-4209-4dbf-bff1-dde93c475155" name="Changes" comment="Acabado Puesto fronterizo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683476531985</updated>
-      <workItem from="1683476533205" duration="2878000" />
+      <workItem from="1683476533205" duration="3372000" />
     </task>
     <task id="LOCAL-00001" summary="Inicio Clases de Uso">
       <created>1683477788600</created>
@@ -93,7 +91,35 @@
       <option name="project" value="LOCAL" />
       <updated>1683479190498</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Finalizado Tienda internet">
+      <created>1683479423159</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683479423159</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Iniciando Usuarios y Admin.">
+      <created>1683479571422</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683479571422</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Acabado Usuarios y Admin.">
+      <created>1683479681896</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683479681896</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Acabado Puesto fronterizo">
+      <created>1683479905916</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683479905916</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +141,10 @@
     <MESSAGE value="Maquina Cafe Cliente - Interacción" />
     <MESSAGE value="Inicio Tienda en Internet" />
     <MESSAGE value="Actor e interaccion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Actor e interaccion" />
+    <MESSAGE value="Finalizado Tienda internet" />
+    <MESSAGE value="Iniciando Usuarios y Admin." />
+    <MESSAGE value="Acabado Usuarios y Admin." />
+    <MESSAGE value="Acabado Puesto fronterizo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Acabado Puesto fronterizo" />
   </component>
 </project>
