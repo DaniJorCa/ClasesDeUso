@@ -1,11 +1,7 @@
 @startuml
 
-:Cliente:
+:new Actor:
 
-Cliente --> (Meter dinero)
-Cliente --> (Pedir Azucar)
-Cliente --> (Pedir Producto)
-Cliente --> (Cancelar)
 
 
 @enduml
