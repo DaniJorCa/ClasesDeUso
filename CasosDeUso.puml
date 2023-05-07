@@ -5,6 +5,12 @@ usecase globo as "Sacar dinero
 --
 + solicitud hecha"
 
+Usecase globo2 as "Retener tarjeta"
+
+globo <.. globo2 : <<extend>>
+
+note  "Description  \ncondicion:\n{ historia sospechosa }\npunto de extension:\nsolicitud hecha." as n1
+
 
 
 
