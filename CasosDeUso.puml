@@ -7,8 +7,13 @@ a1 --> (Pagar)
 a1 --> (Elegir mensajero)
 a1 --> (Confirmar)
 
+(Identificarse) ..> (Registrarse) : extend
 
+(Pagar con tarjeta) as pag1
+(Pagar con transferencia) as transf
 
+(Pagar) <|-- pag1
+(Pagar) <|-- transf
 
 
 @enduml
