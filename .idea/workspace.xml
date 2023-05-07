@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="589368db-4209-4dbf-bff1-dde93c475155" name="Changes" comment="Maquina Cafe Cliente - Interacción">
+    <list default="true" id="589368db-4209-4dbf-bff1-dde93c475155" name="Changes" comment="Inicio Tienda en Internet">
       <change beforePath="$PROJECT_DIR$/CasosDeUso.puml" beforeDir="false" afterPath="$PROJECT_DIR$/CasosDeUso.puml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683476531985</updated>
-      <workItem from="1683476533205" duration="1828000" />
+      <workItem from="1683476533205" duration="2555000" />
     </task>
     <task id="LOCAL-00001" summary="Inicio Clases de Uso">
       <created>1683477788600</created>
@@ -79,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683478198019</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Inicio Tienda en Internet">
+      <created>1683478527802</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683478527802</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +106,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inicio Clases de Uso" />
     <MESSAGE value="Maquina Cafe Cliente - Interacción" />
-    <option name="LAST_COMMIT_MESSAGE" value="Maquina Cafe Cliente - Interacción" />
+    <MESSAGE value="Inicio Tienda en Internet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inicio Tienda en Internet" />
   </component>
 </project>

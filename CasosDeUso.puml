@@ -1,6 +1,13 @@
 @startuml
 
-:new Actor:
+:new Actor: as a1
+
+a1 --> (Identificarse)
+a1 --> (Pagar)
+a1 --> (Elegir mensajero)
+a1 --> (Confirmar)
+
+
 
 
 
