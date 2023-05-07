@@ -1,19 +1,12 @@
 @startuml
 
-:new Actor: as a1
+:Usuario: as u1
 
-a1 --> (Identificarse)
-a1 --> (Pagar)
-a1 --> (Elegir mensajero)
-a1 --> (Confirmar)
+:Administrador: as u2
 
-(Identificarse) ..> (Registrarse) : extend
+u1 <|-- u2
 
-(Pagar con tarjeta) as pag1
-(Pagar con transferencia) as transf
 
-(Pagar) <|-- pag1
-(Pagar) <|-- transf
 
 
 @enduml
